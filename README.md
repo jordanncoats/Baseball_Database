@@ -1,2 +1,2 @@
-# Database_GUI
-CSC 436 Database frontend
+# G10 Baseball Database
+Source code for project by Joey Nguyen, Jordan Coats, Kevin Crocker, Bailey Wheeler, Jake Poretsky 
