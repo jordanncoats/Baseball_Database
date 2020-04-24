@@ -8,7 +8,7 @@ https://github.com/josephnguyen545/Database_GUI/blob/master/project_files/Presen
 
 
 # Video Demonstration
-https://www.youtube.com/watch?v=9H_Iil9Ca-Y&feature=youtu.be
+https://www.youtube.com/watch?v=9H_Iil9Ca-Y
 
 # Review Report
 | Group | Name                      | Question                                    | Answer                       | Rating |
