@@ -11,6 +11,37 @@ conn = sqlite3.connect('address_book.db')
 #Create cursor
 c = conn.cursor()
 
+
+"""#Create index
+def index():
+    #Connect to db
+    conn = sqlite3.connect('address_book.db')
+    #Create cursor
+    c = conn.cursor()
+    
+    c.execute("""
+        CREATE INDEX playerView
+        ON players(p_id)
+        """)    
+
+    c.execute("""
+        CREATE INDEX playernName
+        ON players(p_name)
+        """)
+
+    c.execute("""
+        CREATE INDEX playerTeam
+        ON players(Team_t_id)
+        """)
+
+
+    #commit changes
+    conn.commit()
+
+    #Close connection
+    conn.close()
+"""
+        
 def save():
     #Connect to db
     conn = sqlite3.connect('address_book.db')
