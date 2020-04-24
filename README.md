@@ -2,6 +2,7 @@
 Source code for project by Joey Nguyen, Jordan Coats, Kevin Crocker, Bailey Wheeler, Jake Poretsky 
 
 # Power Point Slides
+https://github.com/josephnguyen545/Database_GUI/blob/master/project_files/Presentation%20Slides.pdf
 
 # Project Report
 
