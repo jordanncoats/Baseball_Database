@@ -22,8 +22,8 @@ Source code for project by Joey Nguyen, Jordan Coats, Kevin Crocker, Bailey Whee
 |----------------|--------------|
 | Jordan Coats   | 100          |
 | Joey Nguyen    | 100          |
-| Kevin Crocker  | 100          |
-| Bailey Wheeler | 100          |
-| Jake Poretsky  | 100          |
+| Kevin Crocker  | 90          |
+| Bailey Wheeler | 75          |
+| Jake Poretsky  | 75          |
 
 
