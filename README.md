@@ -12,14 +12,15 @@
 [![Video Presentation](http://img.youtube.com/vi/9H_Iil9Ca-Y/0.jpg)](http://www.youtube.com/watch?v=9H_Iil9Ca-Y)
 
 ## Review Report
-<div align="center">
+
+<center>
 | Group | Name                      | Question                                    | Answer                       | Rating |
 |-------|---------------------------|---------------------------------------------|------------------------------|--------|
 | G4    | LivePlay ERPMS            | Can you modify invoices after they're made? | No only delete and re-enter. | 90/100 |
 | G5    | Game Information Database | What about different platforms?             | It was not added in.         | 92/100 |
-</div>
+</center>
 ## Internal Review Report
-<div align="center">
+<center>
 | Name           | Contribution |
 |----------------|--------------|
 | Jordan Coats   | 100          |
@@ -27,5 +28,4 @@
 | Kevin Crocker  | 90          |
 | Bailey Wheeler | 75          |
 | Jake Poretsky  | 75          |
-</div>
-
+</center>
