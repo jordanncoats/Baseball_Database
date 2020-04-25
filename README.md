@@ -9,8 +9,7 @@ Source code for project by Joey Nguyen, Jordan Coats, Kevin Crocker, Bailey Whee
 
 
 # Video Demonstration
-[Link to Video](https://www.youtube.com/watch?v=9H_Iil9Ca-Y)
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/9H_Iil9Ca-Y/0.jpg)](http://www.youtube.com/watch?v=9H_Iil9Ca-Y)
+[![Video Presentation](http://img.youtube.com/vi/9H_Iil9Ca-Y/0.jpg)](http://www.youtube.com/watch?v=9H_Iil9Ca-Y)
 
 # Review Report
 | Group | Name                      | Question                                    | Answer                       | Rating |
