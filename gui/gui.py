@@ -11,6 +11,36 @@ conn = sqlite3.connect('address_book.db')
 #Create cursor
 c = conn.cursor()
 
+""""""
+#c.execute(""" CREATE TABLE players(
+    #    firstname text,
+    #    last_name text,
+    #    address text,
+    #    city text,
+    #    state text,
+        #zipcode integer
+        #)""")
+""""""""
+""""""""
+#c.execute(""" CREATE TABLE league(
+    #`o_role` text, 
+    #`games` Integer,
+    #`batting_avg` Real,
+    #`on_base` Real,
+    #`slg` Real,
+    #`ops` Real,
+    #`Players_p_id` Integer,
+    #`Players_p_name` text,
+        #)""")
+""""""""
+
+""""""""
+#c.execute(""" CREATE TABLE players(
+    #`t_id` Integer,
+    #`t_name` text,
+    #`League_l_id` Integer,
+        #)""")
+""""""""
 
 """#Create index
 def index():
